@@ -8,7 +8,7 @@ It is a simple document editor built to understand frontend and backend integrat
 
 COMPANY:CODTECH IT SOLUTIONS
 
-NAME:Sagar GAanesh Sharma
+NAME:Sagar Ganesh Sharma
 
 INTERN ID:CTISAK72
 
