@@ -45,10 +45,14 @@ MENTOR:NEELA SANTOSH
 4. Open `http://localhost:3000`
 
 OUTPUT:
-<img width="633" height="414" alt="Image" src="https://github.com/user-attachments/assets/38236350-10b7-4cc5-bce0-55c0ea913a58" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a50ef187-4e54-471b-b0fe-3d690d375d41" />
+
 
 DOWNLOADED:
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a50ef187-4e54-471b-b0fe-3d690d375d41" />
+
+<img width="633" height="414" alt="Image" src="https://github.com/user-attachments/assets/38236350-10b7-4cc5-bce0-55c0ea913a58" />
+
 
 ## 👤 Author
 **SAGAR**
